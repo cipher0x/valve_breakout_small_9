@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "valve_breakout_small9")(type "KiCad")(uri "/home/eric/code/valve_breakout_small9/valve_breakout_small9.pretty")(options "")(descr ""))
+)
